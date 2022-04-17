@@ -1,4 +1,5 @@
 import React from 'react';
+import Portfolio from '../Section/Portfolio';
 import Services from '../Section/Services';
 
 const Home = () => {
@@ -18,9 +19,14 @@ const Home = () => {
                 </div>
             </div>
             {/* Header banner section end */}
+
             {/* Service Section Start  */}
             <Services></Services>
             {/* Service Section End  */}
+
+            {/*Portfolio Section Start */}
+            <Portfolio></Portfolio>
+            {/*Portfolio Section End */}
         </div>
     );
 };

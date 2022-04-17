@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "name": "Camping Photography",
+        "name": "Costume Photography",
         "img": "https://i.ibb.co/Qd7BRN9/service-1.jpg",
-        "description": "We have to explore the world. Wildlife photography is the best way to explore the nature. We make camp in wild to take the best photography for you. For a perfect image sometimes we almost need one month to stay in the camp.",
+        "description": "It's a long waiting way to take photo. In this way we can explore the nature. We make We make costume for inditiual animal.",
         "price": 5000
     },
     {
         "id": 2,
-        "name": "Camping Photography",
-        "img": "https://i.ibb.co/Qd7BRN9/service-1.jpg",
-        "description": "We have to explore the world. Wildlife photography is the best way to explore the nature. We make camp in wild to take the best photography for you. For a perfect image sometimes we almost need one month to stay in the camp.",
-        "price": 5000
+        "name": "Camping",
+        "img": "https://i.ibb.co/h92HgN1/camp.png",
+        "description": "I allow people to go with me and stay with me in the wild. And Explore the wild animal. It's a 7 days package. for any information you can contact with me.",
+        "price": 2000
     },
     {
         "id": 3,
-        "name": "Camping Photography",
-        "img": "https://i.ibb.co/Qd7BRN9/service-1.jpg",
-        "description": "We have to explore the world. Wildlife photography is the best way to explore the nature. We make camp in wild to take the best photography for you. For a perfect image sometimes we almost need one month to stay in the camp.",
-        "price": 5000
+        "name": "Bird Photography",
+        "img": "https://i.ibb.co/F39znN0/bird.jpg",
+        "description": "We have to explore the world. Bird photography is the best way to explore the nature. We make camp in wild Near bird nest to take the best photography for you.",
+        "price": 500
     },
     {
         "id": 4,
-        "name": "Camping Photography",
-        "img": "https://i.ibb.co/Qd7BRN9/service-1.jpg",
-        "description": "We have to explore the world. Wildlife photography is the best way to explore the nature. We make camp in wild to take the best photography for you. For a perfect image sometimes we almost need one month to stay in the camp.",
-        "price": 5000
+        "name": "Risky Photography",
+        "img": "https://i.ibb.co/5G1NGL0/danger.jpg",
+        "description": "Well, It's really a risky operation. We also need costume for this photography. If anything negative happen in photo taking time, it can cost our life.",
+        "price": 10000
     },
     {
         "id": 5,
-        "name": "Camping Photography",
-        "img": "https://i.ibb.co/Qd7BRN9/service-1.jpg",
-        "description": "We have to explore the world. Wildlife photography is the best way to explore the nature. We make camp in wild to take the best photography for you. For a perfect image sometimes we almost need one month to stay in the camp.",
-        "price": 5000
+        "name": "Snake Photography",
+        "img": "https://i.ibb.co/HCnkmqR/snake.jpg",
+        "description": "There are a lot of snake in the world. Some of them are so beautiful and also dangerous. We find the specific spot for the targeted snake and take the best shot.",
+        "price": 3000
     },
     {
         "id": 6,
-        "name": "Camping Photography",
-        "img": "https://i.ibb.co/Qd7BRN9/service-1.jpg",
-        "description": "We have to explore the world. Wildlife photography is the best way to explore the nature. We make camp in wild to take the best photography for you. For a perfect image sometimes we almost need one month to stay in the camp.",
-        "price": 5000
+        "name": "Nature Photography",
+        "img": "https://i.ibb.co/k4y1SMD/nature-mixing.jpg",
+        "description": "Well, It's the most relaxing wild photography package in my list. Nature is the best place to keep me and anybody who love nature cool.",
+        "price": 2500
     }
 ]
