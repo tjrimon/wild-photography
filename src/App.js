@@ -18,13 +18,13 @@ function App() {
     <>
       <Header></Header>
       <Routes>
+        {/* All the route link here  */}
         <Route path='/' element={<Home></Home>}></Route>
         <Route path='/home' element={<Home></Home>}></Route>
         <Route path='/about' element={<About></About>}></Route>
         <Route path='/blogs' element={<Blogs></Blogs>}></Route>
-
         <Route path='/checkout' element={<RequireAuth><Checkout /> </RequireAuth>}></Route>
-
+        <Route path='/checkout/:checkoutID' element={<RequireAuth><Checkout /> </RequireAuth>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/registration' element={<Registration></Registration>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>

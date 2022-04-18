@@ -5,6 +5,10 @@ Live Link: [Bengal Fly](https://wild-photography-tjrimon.web.app/).
 ## Documentation
 
 * This is a Wild Photography website.
+* Version : 1.000
+* In this website some wild service provided 
+* In blog section you can read some blog 
+* In About section You will see some information about me
 * Language used in this project
     * HTML
     * CSS
@@ -15,8 +19,6 @@ Live Link: [Bengal Fly](https://wild-photography-tjrimon.web.app/).
     * Tailwind Css framework 
     * Rechart 
     * HeroIcon 
-* Version : 1.000
-* In this website some wild service provided and in blog section you can read some blog 
 
 
 ### Home Page

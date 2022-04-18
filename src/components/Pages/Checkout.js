@@ -1,10 +1,12 @@
 import React from 'react';
+import { useParams } from 'react-router-dom';
 
 const Checkout = () => {
+    const { checkoutID } = useParams()
     return (
         <div>
             <div className="mt-20">
-                <h1 className="flex items-center justify-center font-bold text-blue-600 text-3xl">Wild Photography
+                <h1 className="flex items-center justify-center font-bold text-blue-600 text-3xl">Wild Photography  {checkoutID}
                 </h1>
             </div>
             <div className="container p-12 mx-auto">

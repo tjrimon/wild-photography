@@ -2,6 +2,7 @@ import React from 'react';
 
 const Blogs = () => {
     return (
+        // blog page content 
         <div className='md:flex justify-center'>
             <div className='grid items-center mx-auto justify-center mb-16 lg:grid-cols-2'>
                 <div className='p-8 bg-gray-200 text-center mt-24 mx-6 w-[350px]'>
